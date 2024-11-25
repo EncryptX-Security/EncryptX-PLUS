@@ -1,0 +1,48 @@
+# -------------------------------------------------------------------
+# EncryptX [PLUS] Module(s) Information
+# -------------------------------------------------------------------
+
+# 01 | Volume Key Selection
+# When Turned On, Enables Support Of Using Volume Keys Of The
+# Device Itself To Choose Following Options. Predefined With
+# Basic Layout Making It Easier For Anyone To Use.
+
+# 02 | EncryptX MOD Recovery
+# When Turned On, It Restricts Flashing Only To Our Own Recovery.
+# Other Recoveries Would Fail To Flash Package.
+# The Following Package Should Support Minimum & Maximum Version
+# Support In Order To Flash The Package.
+
+# 03 | Confinement Mode
+# When Turned On, If The User Is Unverified To Flash Particular 
+# Package Via Activator. If Incase User Tries To Flash The ROM,
+# Might End Up Loosing Access To His Device For Which We Are 
+# Not Responsible.
+
+# 04 | Logs Service
+# When Turned On, EncryptX Generates Own Service Logs & Creates Folder
+# In Internal Storage & /tmp/. Where User Can Refer All The 
+# Corresponding Information About Flashing & Device Statistics.
+
+# 05 | Shuffle Confidential Information
+# When Turned On, The Device(s) Confidential Information Is Shuffled
+# In Such Order Which The Owner Is Only Able To Understand Within 
+# The Logs. Helpful While Sharing Logs To Developer Such That 3rd
+# Party Users Cannot Misuse The Information.
+
+# 06 | Restrict Packages Service
+# When Turned On, The Flashing Process (.zip) Gets Splitted
+# Amongst A Number Of Packages Thats Need To Be Flashed In A Specific
+# Order. Incase Order Mismatches Flashing Will Fail.
+# Max PackageID Binding Is Restricted To 10 zips.
+
+# 07 | Time Bomb Service
+# When Turned On, Package Is Restricted To Be Only Flashed Until
+# Certain Time After Downloaded, Post That Flashing Will Fail
+# Automatically.
+
+# -------------------------------------------------------------------
+# EncryptX [PLUS] Module(s) Only Get Triggered With The Corresponding
+# Control Panel Developed. These Features Are Customizable & Can Be 
+# Added Or Removed In The Build User Wishes.
+# -------------------------------------------------------------------
