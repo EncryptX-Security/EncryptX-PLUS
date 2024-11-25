@@ -1,0 +1,73 @@
+[-] File Information:
+    <!> Version: V1.0.7
+    <!> Variant: Stable
+    <!> Security Type: EncrpytX-[PLUS]
+    <!> Updated: On 26-11-2024 At 02:56AM [IST]
+
+[-] Activator Feature Add-ons:
+   <##> Including Support, We Have Also Introduced A Master Toggle For These Service(s) To Be Utilized Without Modifying Codes. 
+   <01> Added New Feature: [Module] Volume Key Selector Support
+   <02> Added New Feature: [Module] EncryptX MOD Recovery Support
+   <03> Added New Feature: [Module] Data Dictonary Config Support
+   <04> Added New Feature: [Module] Device Checking Support 
+   <05> Added New Feature: [Module] Anti-Fiddling Mode Support
+   <06> Added New Feature: [Module] EncryptX Logs Support
+   <07> Added New Feature: [Module] Shuffle Device's Confidential Details Support To Enhance Privacy
+   <08> Added New Feature: [Module] EncryptX Time-Bomb Service(s) Support
+   <09> Added New Feature: [Module] Warning Alert System Support
+   <10> Added New Feature: [Module] Lockdown Flashing Mode Support
+
+   <##> Our Security Takes Input Of More Than One Serial Information Of Device To Protect User From Any Unwanted Hard-Bricks And Restrict Flashing
+   <01> Added New Feature: [Safety] If Incase Any User's One Of The Serial Is Wrong, Lockdown Will Restrict User From Flashing ROM
+   <02> Added New Feature: [Safety] Users Can Flash ROM With Specified Recovery, For Better Stability (IF FEATURE ENABLED)
+   <03> Added New Feature: [Safety] Non-Dynamic Device Users If Using Unofficial Retrofit/Dynamic Recovery Will Be Notified In Logs, To Consult DEV Before Flashing ROM
+   <04> Added New Feature: [Safety] Master Toggle To Hard-Brick Device Or Not If Incase Non Registered User Is Flashing (IF FEATURE ENABLED)
+   <05> Added New Feature: [Safety] Users Cannot Flash ROM Without Activating Their Session Token
+   <06> Added New Feature: [Safety] Added SHA256 Checker For All Files To Avoid Any 3rd Party Interference To Inject Malicious Codes
+
+   <01> Added New Feature: [General] Improved Binary Coding For DEV/Admin To Easily Activate & Use This Module!
+   <02> Added New Feature: [General] Added Data-Dictonary-Config Service, That Is Very Capable Of Manual Encrypting & Easier To Code In Binary
+   <03> Added New Feature: [General] A New Service Introduced That Collects Flashing Data, And Will Update It While Flashing ROM
+   <04> Added New Feature: [General] Display BusyBox Information In Logs
+   <05> Added New Feature: [General] Display Support Of [Module] In Logs, Whether It Is Bundled Or Not
+   <06> Added New Feature: [General] Made Binaries Easier To WorkAround, Now DEV/Admin Can Display Project Details In Much Easier Way
+   <07> Added New Feature: [General] Added MasterSwitchService To Toggle These Module Features More Easily
+   <08> Added New Feature: [General] Re-Based Coding So Now Max 30 Members Data Can Be Accomodated Per Device
+   <09> Added New Feature: [General] Added Support For These Devices - beryllium, redwood, marble, pedriot, garnet, veux
+   <10> Added New Feature: [General] Added New TMP Directory That Will Contain Flash Data (DIR: Anonymous) & Wipes Automatically Before Flash Ends.
+   <11> Added New Feature: [General] Added Mounting & Unmounting Service For Non-Dynamic | Dynamic | RO/RW Devices
+   <12> Added New Feature: [General] Greet Verified Users With A Positive Note To Hook Them Until Flash Is Done!
+   
+[-] Changelog:
+    <*> Added New Techniques, And Improved Coding Efficiencies For Faster Flashing
+    <*> Reduced Overall Activator Flashing Time By 35%
+	  <*> Added Support For Flashing EROFS Or EXT4 Type Images More Faster
+	  <*> Added Code Flow Animations & Symmetery While Flashing, Focused On Better Flashing Experience
+    <*> Added New Folder In Internal Storage, EncrpytX.
+	  <*> Users Can See In Recovery Inside EncryptX Folder From Recovery Only Whether They Can Flash ROM Or Not (Pass/Fail) - For More Detailed Information Access Logs.
+    <*> Logs Will Be Found At [/data/media/0/EncrpytX/EncrpytX.log] & [/dev/tmp/EncrpytX.log]
+    <*> Added Support Of '.zstd' Type Images
+	  <*> Added Support Of '.gz' Type Images
+    <*> Fixed Dynamic Device Slots Checking Service
+    <*> Re-Encrypted All Source-Files :) (NO RR NOW KANGERS)
+    <*> Removed Existing Module 'Check Package Files' Due To Useless Bugs Occuring Due To It
+    <*> Fixed Misc. Flashing Services For Supporting Non Dynamic Devices
+    <*> Fixed Logs Module 'session code'
+    <*> Fixed Useless Bugs In 'VolumeKeySelector' Module
+    <*> Added Source Files Of Device Codenames To Support All-In-One Module For These Devices
+	  <*> Thanks To chainfire @xda-developers For 'keycheck' File(s)
+	  <*> Fixed Support Of VolumeKeySelector Module & It's Corresponding Files
+	  <*> Plucked Few Source Files From 'AnyKernel3' osm0sis @xda-developers, Thanks To Him
+    <*> Fixed EncryptX TMP Services Data Folder, Data Now Properly Extracts To This Directory
+    <*> Backend Source Changes Applied, Created /dev/tmp directory for more info
+    <*> Added Copy Of EncryptX.log As EncryptX.txt so users can easily access it now
+	  <*> Added Last File Flashing Information As Code For Developers To Understand
+    <*> Added New Feature For User To Understand Flashing Technique, In Logs
+	  <*> Fixed chmod Permissions For Source Files To Execute
+	  <*> Restricted Database Index To Hold Max 30 Users Data Per Device
+	  <*> Added & Fixed Mounting And Unmounting Services Whilst Flashing
+    <*> Much More I Forgot :?
+
+	
+[-] Upcoming Features: 
+    <?> Secret For Now, But Soon :)
